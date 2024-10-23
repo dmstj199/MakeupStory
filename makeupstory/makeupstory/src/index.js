@@ -1,7 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import {Routes , Route} from "react-router-dom";
-import Layout from './component/layout/Layout';
+import Layout from './component/layout/LayoutComponent';
+
+
+
 
 
 

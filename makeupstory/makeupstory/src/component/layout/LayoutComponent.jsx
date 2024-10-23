@@ -3,7 +3,7 @@ import TopArea from './TopArea';
 import MainArea from './MainArea';
 import FooterArea from './FooterArea';
 
-function Layout(props) {
+function LayoutComponent(props) {
     return (
         <>
             <TopArea />
@@ -13,5 +13,5 @@ function Layout(props) {
     );
 }
 
-export default Layout;
+export default LayoutComponent;
 
